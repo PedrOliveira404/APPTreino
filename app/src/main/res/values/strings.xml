@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AppTreino</string>
+    <string name="exercicioTitulo">Exercício Teste</string>
+    <string name="descricao">Apenas uma descrição</string>
+
+    <!-- Menu Exercícios -->
+    <string name="btn1">Alongamentos</string>
+    <string name="btn2">Exercícios 1</string>
+    <string name="btn3">Exercícios 2</string>
+    <string name="btn4">Exercícios 3</string>
+    <string name="btn5">Exercícios 4</string>
+    <string name="btn6">Exercícios 5</string>
+
+    <!-- Reprodutor Exercícios -->
+    <string name="numRepet">0</string>
+    <string name="alertTitulo">Série Finalizada!</string>
+    <string name="alertMsg">Parabens, Nome da playlist Concluída!</string>
+    <string name="alertSim">Concluir</string>
+    <string name="alertNao">Repetir</string>
+
+
+    <string-array name="Playlist1">
+        <item>alongamento_abdomen</item>
+        <item>pose_descanso</item>
+        <item>alternar_dumpbell</item>
+        <item>pose_descanso</item>
+        <item>alternar_lado</item>
+        <item>pose_descanso</item>
+        <item>alternar_lunge</item>
+        <item>pose_descanso</item>
+        <item>alternar_lunge_lado</item>
+        <item>pose_descanso</item>
+        <item>ponte_abdomen</item>
+        <item>pose_descanso</item>
+        <item>ponte_avancada</item>
+        <item>pose_descanso</item>
+        <item>salto_tornozelo</item>
+    </string-array>
+
+
+    <!-- Nome dos vídeos de exercícios -->
+    <!--
+         Alo = Alongamento
+         Alt = Alternar
+         Pon = Ponte
+         Sal = Salto
+    -->
+
+    <string name="alo_abdomen"   >alongamento_abdomen</string>
+    <string name="alt_dumpbell"  >alternar_dumpbell</string>
+    <string name="alt_lado"      >alternar_lado</string>
+    <string name="alt_lunge"     >alternar_lunge</string>
+    <string name="alt_lunge_lado">alternar_lunge_lado</string>
+    <string name="pon_abdomen"   >ponte_abdomen</string>
+    <string name="pon_avancada"  >ponte_avancada</string>
+    <string name="sal_tornozelo" >salto_tornozelo</string>
+
+
+
+</resources>
