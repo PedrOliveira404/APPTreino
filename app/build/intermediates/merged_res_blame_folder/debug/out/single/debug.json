@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_pulo.jpg.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\pulo.jpg"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lado.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lado.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lunge_lado.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lunge_lado.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_reprodutor_exercicios.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_reprodutor_exercicios.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_dumpbell.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_dumpbell.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_shape.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\circular_shape.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_abdomen.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alongamento_abdomen.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_salto_tornozelo.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\salto_tornozelo.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_pose_descanso.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\pose_descanso.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_pattern_white_wide_opacity5.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\bg_pattern_white_wide_opacity5.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_menu_exercicios.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_menu_exercicios.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_avancada.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_avancada.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_forward_black.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\forward_black.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_backward.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\backward.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lunge.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lunge.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_bar.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\circular_bar.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_abdomen.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_abdomen.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_forward.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ankle_hops.gif.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ankle_hops.gif"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_pattern_white_opacity5.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\bg_pattern_white_opacity5.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_pattern_gray_opacity15.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\bg_pattern_gray_opacity15.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_backward_black.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\backward_black.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

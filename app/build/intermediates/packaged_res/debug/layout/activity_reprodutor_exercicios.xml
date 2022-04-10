@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgWhite"
+    tools:context=".ReprodutorExercicios">
+
+    <ImageView
+        android:id="@+id/imageViewBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/descricao"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bg_pattern_gray_opacity15" />
+
+    <View
+        android:id="@+id/viewTitulo"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/yellow"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/exercicioTitulo"
+        android:textColor="@color/darkGray"
+        android:textSize="32sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/viewTitulo"
+        app:layout_constraintTop_toTopOf="@+id/viewTitulo" />
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="0dp"
+        android:layout_height="303dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/viewTitulo" />
+
+    <RelativeLayout
+        android:id="@+id/progress_layout"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_margin="100dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewBackground"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/videoView">
+
+        <!--progress bar implementation-->
+
+        <!--Text implementation in center of the progress bar-->
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="390dp"
+            android:layout_height="353dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/circular_shape"
+            android:indeterminate="false"
+            android:progress="0"
+            android:progressDrawable="@drawable/circular_bar"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/progress_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:text="@string/numRepet"
+            android:textColor="@color/darkGray"
+            android:textSize="42sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:backgroundTint="#0000"
+        android:contentDescription="@string/descricao"
+        android:onClick="btnAnterior"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="@+id/progress_layout"
+        app:layout_constraintEnd_toStartOf="@+id/progress_layout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/progress_layout"
+        app:srcCompat="@drawable/backward_black"
+        tools:ignore="SpeakableTextPresentCheck,DuplicateSpeakableTextCheck" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:backgroundTint="#0000"
+        android:contentDescription="@string/descricao"
+        android:onClick="btnProximo"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toBottomOf="@+id/progress_layout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/progress_layout"
+        app:layout_constraintTop_toTopOf="@+id/progress_layout"
+        app:srcCompat="@drawable/forward_black"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textViewSerieCont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0 / 0"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="@+id/viewTitulo"
+        app:layout_constraintEnd_toEndOf="@+id/textViewTitulo"
+        app:layout_constraintStart_toStartOf="@+id/textViewTitulo"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitulo" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
