@@ -1,43 +1,51 @@
 [
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_pulo.jpg.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\pulo.jpg"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ponte_borboleta.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ponte_borboleta.png"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lado.mp4.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lado.mp4"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_esticar_bracos.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\esticar_bracos.mp4"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lunge_lado.mp4.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lunge_lado.mp4"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_curvar_alternado.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\curvar_alternado.mp4"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_reprodutor_exercicios.xml.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_reprodutor_exercicios.xml"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_curvar_alternado.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\curvar_alternado.png"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_abdominal.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\abdominal.png"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ponte_avancada.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ponte_avancada.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_flexao_hindu.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\flexao_hindu.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_cruzar_bracos.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\cruzar_bracos.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_flexoes.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\flexoes.mp4"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_dumpbell.mp4.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_dumpbell.mp4"
-    },
-    {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_shape.xml.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\circular_shape.xml"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_abdomen.mp4.flat",
@@ -48,36 +56,16 @@
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\salto_tornozelo.mp4"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_pose_descanso.mp4.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\pose_descanso.mp4"
-    },
-    {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_pattern_white_wide_opacity5.png.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\bg_pattern_white_wide_opacity5.png"
-    },
-    {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_menu_exercicios.xml.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_menu_exercicios.xml"
-    },
-    {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_avancada.mp4.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_avancada.mp4"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_elevar_perna.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\elevar_perna.mp4"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_forward_black.png.flat",
@@ -88,52 +76,104 @@
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_preview_playlist.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_preview_playlist.xml"
+    },
+    {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_pulo_agachamento.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\pulo_agachamento.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_borboleta.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_borboleta.mp4"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_backward.png.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\backward.png"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_burpees.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\burpees.mp4"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lunge.mp4.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lunge.mp4"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_rolamento.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\rolamento.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_pulo_agachamento.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\pulo_agachamento.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_abdominal.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\abdominal.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_borboleta.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alongamento_borboleta.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_mergulho_triceps.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\mergulho_triceps.mp4"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_bar.xml.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\circular_bar.xml"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_abdomen.mp4.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_abdomen.mp4"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_mergulho_triceps.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\mergulho_triceps.png"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_forward.png.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\forward.png"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_pe_caranguejo.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\pe_caranguejo.mp4"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ankle_hops.gif.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ankle_hops.gif"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_rolamento.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\rolamento.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_card_layout.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_chutes.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\chutes.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_descanso.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\descanso.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alternar_lunge.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alternar_lunge.png"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_pattern_white_opacity5.png.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\bg_pattern_white_opacity5.png"
     },
     {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_chutes.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\chutes.mp4"
+    },
+    {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_estender_costas.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\estender_costas.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alongamento_pescoco.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alongamento_pescoco.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_obliquos.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alongamento_obliquos.mp4"
     },
     {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_pattern_gray_opacity15.png.flat",
@@ -144,7 +184,187 @@
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\backward_black.png"
     },
     {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alternar_lado.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alternar_lado.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_flexoes.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\flexoes.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alongamento_pulsos.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alongamento_pulsos.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_pulo_180.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\pulo_180.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nivel_exercicio.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_nivel_exercicio.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_pulo_180.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\pulo_180.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_reprodutor_exercicios.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_reprodutor_exercicios.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_coices.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\coices.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_coices.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\coices.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_flexao_hindu.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\flexao_hindu.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_shape.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\circular_shape.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ponte_abdomen.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ponte_abdomen.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_avancada.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_avancada.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_menu_exercicios.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\layout\\activity_menu_exercicios.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_elevar_perna.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\elevar_perna.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_agachamento_cossack.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\agachamento_cossack.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_biceps.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alongamento_biceps.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_pescoco.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alongamento_pescoco.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_backward.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\backward.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alongamento_pulsos.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alongamento_pulsos.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_alternar_lunge.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\alternar_lunge.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_pe_caranguejo.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\pe_caranguejo.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_agachamento_cossack.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\agachamento_cossack.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_ponte_abdomen.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\ponte_abdomen.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_bicicleta.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\bicicleta.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alongamento_abdomen.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alongamento_abdomen.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_forward.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alongamento_obliquos.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alongamento_obliquos.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_bicicleta.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\bicicleta.mp4"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alongamento_biceps.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alongamento_biceps.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_burpees.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\burpees.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_estender_costas.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\estender_costas.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_alongamento_borboleta.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\alongamento_borboleta.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_esticar_bracos.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\esticar_bracos.png"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\raw_pulo_sapo.mp4.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\raw\\pulo_sapo.mp4"
+    },
+    {
         "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\merged_res\\debug\\drawable_cruzar_bracos.png.flat",
+        "source": "D:\\Dev\\AndroidStudio\\AppTreino\\app\\src\\main\\res\\drawable\\cruzar_bracos.png"
     }
 ]

@@ -1,48 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <string-array name="Playlist1">
-        <item>alongamento_abdomen</item>
-        <item>pose_descanso</item>
-        <item>alternar_dumpbell</item>
-        <item>pose_descanso</item>
-        <item>alternar_lado</item>
-        <item>pose_descanso</item>
-        <item>alternar_lunge</item>
-        <item>pose_descanso</item>
-        <item>alternar_lunge_lado</item>
-        <item>pose_descanso</item>
-        <item>ponte_abdomen</item>
-        <item>pose_descanso</item>
+    <string-array name="Intenso">
+        <item>pulo_180</item>
+        <item>descanso</item>
         <item>ponte_avancada</item>
-        <item>pose_descanso</item>
-        <item>salto_tornozelo</item>
+        <item>descanso</item>
+        <item>curvar_alternado</item>
+        <item>descanso</item>
+        <item>bicicleta</item>
+        <item>descanso</item>
+        <item>alternar_lunge</item>
+        <item>descanso</item>
+        <item>mergulho_triceps</item>
+    </string-array>
+    <string-array name="Leve">
+        <item>coices</item>
+        <item>descanso</item>
+        <item>cruzar_bracos</item>
+        <item>descanso</item>
+        <item>rolamento</item>
+        <item>descanso</item>
+        <item>alongamento_abdomen</item>
+        <item>descanso</item>
+        <item>alongamento_borboleta</item>
+        <item>descanso</item>
+        <item>esticar_bracos</item>
+        <item>descanso</item>
+        <item>elevar_perna</item>
+    </string-array>
+    <string-array name="Moderado">
+        <item>alternar_lado</item>
+        <item>descanso</item>
+        <item>alternar_lunge</item>
+        <item>descanso</item>
+        <item>flexoes</item>
+        <item>descanso</item>
+        <item>elevar_perna</item>
+        <item>descanso</item>
+        <item>ponte_abdomen</item>
+        <item>descanso</item>
+        <item>bicicleta</item>
+
     </string-array>
     <color name="bgWhite">#EFEFEF</color>
     <color name="black">#FF000000</color>
-    <color name="btn1">#73FB8B24</color>
-    <color name="btn2">#73D90368</color>
-    <color name="btn3">#73820263</color>
-    <color name="btn4">#73291720</color>
-    <color name="btn5">#7304A777</color>
-    <color name="btn6">#734BAAC4</color>
+    <color name="btn1">#99FFD400</color>
+    <color name="btn2">#99FFEB3B</color>
+    <color name="btn3">#99FFD400</color>
+    <color name="btn4">#99FFEB3B</color>
+    <color name="btn5">#99FFD400</color>
+    <color name="btn6">#99FFEB3B</color>
+    <color name="btnIntenso">#F37028</color>
+    <color name="btnLeve">#E44FAB</color>
+    <color name="btnModerado">#D45767</color>
     <color name="darkGray">#333333</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="viewTitulo">#59232323</color>
+    <color name="viewTitulo">#8C232323</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#F3CA40</color>
-    <string name="alertMsg">Parabens, Nome da playlist Concluída!</string>
+    <string name="alertMsg">Parabens, Série Concluída!</string>
     <string name="alertNao">Repetir</string>
     <string name="alertSim">Concluir</string>
     <string name="alertTitulo">Série Finalizada!</string>
-    <string name="alo_abdomen">alongamento_abdomen</string>
-    <string name="alt_dumpbell">alternar_dumpbell</string>
-    <string name="alt_lado">alternar_lado</string>
-    <string name="alt_lunge">alternar_lunge</string>
-    <string name="alt_lunge_lado">alternar_lunge_lado</string>
     <string name="app_name">AppTreino</string>
     <string name="btn1">Alongamentos</string>
     <string name="btn2">Exercícios 1</string>
@@ -50,16 +73,20 @@
     <string name="btn4">Exercícios 3</string>
     <string name="btn5">Exercícios 4</string>
     <string name="btn6">Exercícios 5</string>
+    <string name="btnIntenso">Intenso</string>
+    <string name="btnLeve">Leve</string>
+    <string name="btnModerado">Moderado</string>
+    <string name="btnPlaylist">Iniciar!</string>
     <string name="descricao">Apenas uma descrição</string>
+    <string name="exercicioRepet">0 / 0</string>
     <string name="exercicioTitulo">Exercício Teste</string>
     <string name="numRepet">0</string>
-    <string name="pon_abdomen">ponte_abdomen</string>
-    <string name="pon_avancada">ponte_avancada</string>
-    <string name="sal_tornozelo">salto_tornozelo</string>
+    <string name="txtNivel">Escolha um nível</string>
+    <string name="txtNivelSelecionado">Nível selecionado:</string>
     <style name="Theme.AppTreino" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/yellow</item>
+        <item name="colorPrimaryVariant">@color/btnModerado</item>
         <item name="colorOnPrimary">@color/white</item>
         
         <item name="colorSecondary">@color/teal_200</item>
@@ -67,6 +94,9 @@
         <item name="colorOnSecondary">@color/black</item>
         
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+
         
+
+
     </style>
 </resources>

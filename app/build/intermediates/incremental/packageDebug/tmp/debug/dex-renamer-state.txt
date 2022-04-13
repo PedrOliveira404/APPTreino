@@ -1,4 +1,4 @@
-#Sat Apr 09 17:13:49 BRT 2022
+#Wed Apr 13 12:07:55 BRT 2022
 base.2=D\:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
 path.2=10/classes.dex
 base.1=D\:\\Dev\\AndroidStudio\\AppTreino\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

@@ -4,6 +4,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
@@ -12,15 +13,14 @@ import android.widget.TextView;
 import android.widget.VideoView;
 
 public class ReprodutorExercicios extends AppCompatActivity {
-    private int prog = 0, repet = 0, numExercicios = 0, cont = 0;
+    private int prog = 0, repet = 0, numExercicios = 0, cont = 0, playlist = 0;
+    private static final int progInc = 10; // Incrementa a barra de progresso para cada repetição
+    private static final int numRepet = 100; // 10 repetições
 
     private TextView txtTitulo, txtRepet, txtSerieCount;
     private ProgressBar barraRepet;
     private VideoView videoView;
     private String[] exercicios;
-    private String path;
-    private int progInc = 10; // Incrementa a barra de progresso para cada repetição
-    private int numRepet = 100; // 10 repetições
 
 
     @Override
@@ -37,20 +37,26 @@ public class ReprodutorExercicios extends AppCompatActivity {
 
         videoView = findViewById(R.id.videoView);
         videoView.setZOrderOnTop(true);
-        path = "android.resource://" + getPackageName() + "/";
-
-        exercicios = getResources().getStringArray(R.array.Playlist1);
-        numExercicios = exercicios.length - 1;
-
-        contSerie();
     }
 
     protected void onResume()
     {
         super.onResume();
-        reproduzVideo();
+        selecionaPlaylist();
     }
 
+    private void selecionaPlaylist()
+    {
+        Intent intent = getIntent();
+
+        playlist = intent.getIntExtra("playlist", 0);
+        exercicios = getResources().getStringArray(playlist);
+
+        numExercicios = exercicios.length - 1;
+
+        contSerie();
+        reproduzVideo();
+    }
     public void btnProximo(View view)
     {
         pulaVideo();
@@ -61,9 +67,15 @@ public class ReprodutorExercicios extends AppCompatActivity {
         retornaVideo();
     }
 
-    private void contSerie()
+    private void contSerie() { txtSerieCount.setText(String.valueOf(cont + " / " + numExercicios)); }
+
+    private int getVideoID(String name) { return getResources().getIdentifier(name, "raw", getPackageName()); }
+
+    private void selecionaVideo()
     {
-        txtSerieCount.setText(String.valueOf(cont + " / " + numExercicios));
+        inserirTitulo();
+        videoView.setVideoPath("android.resource://" + getPackageName() + "/" + getVideoID(exercicios[cont]));
+        videoView.start();
     }
 
     private void inserirTitulo()
@@ -73,12 +85,18 @@ public class ReprodutorExercicios extends AppCompatActivity {
                 .replace("_", " "));
     }
 
-    private int getVideoID(String name) { return getResources().getIdentifier(name, "raw", getPackageName()); }
-
-    public void reproduzVideo()
+    private void reproduzVideo()
     {
         selecionaVideo();
-        videoView.start();
+
+        videoView.setOnErrorListener(new MediaPlayer.OnErrorListener() {
+            @Override
+            public boolean onError(MediaPlayer mediaPlayer, int i, int i1) {
+                showErrorBox(exercicios[cont]);
+                pulaVideo();
+                return false;
+            }
+        });
 
         videoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
@@ -88,19 +106,6 @@ public class ReprodutorExercicios extends AppCompatActivity {
                 else showAlertBox();
             }
         });
-    }
-
-    private void selecionaVideo()
-    {
-        try
-        {
-            inserirTitulo();
-            videoView.setVideoPath(path + getVideoID(exercicios[cont]));
-        }
-        catch (Exception e)
-        {
-            showErrorBox(e.toString());
-        }
     }
 
     private void pulaVideo()
@@ -115,11 +120,9 @@ public class ReprodutorExercicios extends AppCompatActivity {
             contSerie();
             reiniciaProg();
             selecionaVideo();
-            videoView.start();
+
         }
-
     }
-
 
     private void retornaVideo()
     {
@@ -129,7 +132,6 @@ public class ReprodutorExercicios extends AppCompatActivity {
         contSerie();
         reiniciaProg();
         selecionaVideo();
-        videoView.start();
     }
 
     private void incrementaProg()
@@ -153,14 +155,9 @@ public class ReprodutorExercicios extends AppCompatActivity {
         videoView.seekTo(0);
         selecionaVideo();
         reiniciaProg();
-
-        if (videoView.isPlaying() == false)
-            videoView.start();
     }
 
-
-
-    public void showAlertBox()
+    private void showAlertBox()
     {
         videoView.pause();
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -189,7 +186,7 @@ public class ReprodutorExercicios extends AppCompatActivity {
     {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
 
-        builder.setTitle("Erro inesperado");
+        builder.setTitle("Erro no vídeo ");
         builder.setMessage(msg);
 
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {

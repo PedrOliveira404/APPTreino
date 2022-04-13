@@ -11,11 +11,15 @@
     <color name="yellow">#F3CA40</color>
     <color name="darkGray">#333333</color>
 
-    <color name="viewTitulo">#59232323</color>
-    <color name="btn1">#73FB8B24</color>
-    <color name="btn2">#73D90368</color>
-    <color name="btn3">#73820263</color>
-    <color name="btn4">#73291720</color>
-    <color name="btn5">#7304A777</color>
-    <color name="btn6">#734BAAC4</color>
+    <color name="viewTitulo">#8C232323</color>
+    <color name="btn1">#99FFD400</color>
+    <color name="btn2">#99FFEB3B</color>
+    <color name="btn3">#99FFD400</color>
+    <color name="btn4">#99FFEB3B</color>
+    <color name="btn5">#99FFD400</color>
+    <color name="btn6">#99FFEB3B</color>
+
+    <color name="btnLeve">#E44FAB</color>
+    <color name="btnModerado">#D45767</color>
+    <color name="btnIntenso">#F37028</color>
 </resources>

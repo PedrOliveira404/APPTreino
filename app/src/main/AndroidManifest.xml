@@ -10,22 +10,28 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppTreino">
         <activity
-            android:name=".MenuExercicios"
+            android:name=".PreviewPlaylist"
             android:exported="false">
 
         </activity>
-
+        <activity
+            android:name=".NivelExercicio"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".MenuExercicios"
+            android:exported="false" />
         <activity
             android:name=".ReprodutorExercicios"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
             android:exported="true"> <!-- True for the intent filter -->
-                <intent-filter>
-                    <action android:name="android.intent.action.MAIN" />
-                    <category android:name="android.intent.category.LAUNCHER" />
-                </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
     </application>
 

@@ -19,16 +19,23 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppTreino" >
         <activity
-            android:name="com.example.apptreino.MenuExercicios"
+            android:name="com.example.apptreino.PreviewPlaylist"
             android:exported="false" >
         </activity>
+        <activity
+            android:name="com.example.apptreino.NivelExercicio"
+            android:exported="false" >
+        </activity>
+        <activity
+            android:name="com.example.apptreino.MenuExercicios"
+            android:exported="false" />
         <activity
             android:name="com.example.apptreino.ReprodutorExercicios"
-            android:exported="false" >
-        </activity>
+            android:exported="false" />
         <activity
             android:name="com.example.apptreino.MainActivity"
-            android:exported="true" > <!-- True for the intent filter -->
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" > <!-- True for the intent filter -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

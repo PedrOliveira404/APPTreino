@@ -10,7 +10,7 @@
         android:shape="ring"
         android:thickness="16dp"
         android:useLevel="true"
-        android:tint="@color/yellow">
+        android:tint="@color/btnIntenso">
     </shape>
 
 </rotate>

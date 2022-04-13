@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Leve">
+        <item>coices</item>
+        <item>descanso</item>
+        <item>cruzar_bracos</item>
+        <item>descanso</item>
+        <item>rolamento</item>
+        <item>descanso</item>
+        <item>alongamento_abdomen</item>
+        <item>descanso</item>
+        <item>alongamento_borboleta</item>
+        <item>descanso</item>
+        <item>esticar_bracos</item>
+        <item>descanso</item>
+        <item>elevar_perna</item>
+    </string-array>
+
+    <string-array name="Moderado">
+        <item>alternar_lado</item>
+        <item>descanso</item>
+        <item>alternar_lunge</item>
+        <item>descanso</item>
+        <item>flexoes</item>
+        <item>descanso</item>
+        <item>elevar_perna</item>
+        <item>descanso</item>
+        <item>ponte_abdomen</item>
+        <item>descanso</item>
+        <item>bicicleta</item>
+
+    </string-array>
+
+    <string-array name="Intenso">
+        <item>pulo_180</item>
+        <item>descanso</item>
+        <item>ponte_avancada</item>
+        <item>descanso</item>
+        <item>curvar_alternado</item>
+        <item>descanso</item>
+        <item>bicicleta</item>
+        <item>descanso</item>
+        <item>alternar_lunge</item>
+        <item>descanso</item>
+        <item>mergulho_triceps</item>
+    </string-array>
+
+</resources>

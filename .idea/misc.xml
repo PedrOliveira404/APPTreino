@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/drawable/card_exercicio.xml" value="0.2775" />
         <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/drawable/circular_bar.xml" value="0.191" />
         <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/drawable/circular_shape.xml" value="0.191" />
+        <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2775" />
         <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/activity_main.xml" value="0.3374094202898551" />
         <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/activity_menu_exercicios.xml" value="0.33" />
+        <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/activity_nivel_exercicio.xml" value="0.36827195467422097" />
+        <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/activity_preview_playlist.xml" value="0.2980769230769231" />
         <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/activity_reprodutor_exercicios.xml" value="0.33" />
+        <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/card_layout.xml" value="0.3875" />
         <entry key="..\:/Dev/AndroidStudio/AppTreino/app/src/main/res/layout/circular_progress_bar.xml" value="0.21105072463768115" />
       </map>
     </option>
