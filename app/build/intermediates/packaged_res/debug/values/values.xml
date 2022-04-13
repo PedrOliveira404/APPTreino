@@ -83,6 +83,9 @@
     <string name="numRepet">0</string>
     <string name="txtNivel">Escolha um nível</string>
     <string name="txtNivelSelecionado">Nível selecionado:</string>
+    <style name="AppCompat.TelaCheia" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+    </style>
     <style name="Theme.AppTreino" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 mostrarMenu();
             }
-        }, 1500);
+        }, 2000);
     }
 
 

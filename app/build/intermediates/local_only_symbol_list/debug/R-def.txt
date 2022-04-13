@@ -71,9 +71,7 @@ id button
 id imageButton
 id imageButton2
 id imageViewBackground
-id imageViewBackgroundSplash
 id imageViewExercicio
-id imageViewLogoSplash
 id linearPlaylist
 id progress_bar
 id progress_layout
@@ -150,4 +148,5 @@ string exercicioTitulo
 string numRepet
 string txtNivel
 string txtNivelSelecionado
+style AppCompat.TelaCheia
 style Theme.AppTreino

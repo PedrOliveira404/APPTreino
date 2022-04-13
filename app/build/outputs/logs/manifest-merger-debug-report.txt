@@ -126,7 +126,7 @@ ADDED from D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:27:9-
 	android:exported
 		ADDED from D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:30:13-36
 	android:theme
-		ADDED from D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:29:13-63
+		ADDED from D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:29:13-55
 	android:name
 		ADDED from D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER

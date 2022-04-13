@@ -25,76 +25,75 @@
 17-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.AppTreino" >
-20-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:11:9-47
-21        <activity
-21-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:12:9-16:20
-22            android:name="com.example.apptreino.PreviewPlaylist"
-22-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:13:13-44
-23            android:exported="false" >
-23-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:14:13-37
-24        </activity>
-25        <activity
-25-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:17:9-20:20
-26            android:name="com.example.apptreino.NivelExercicio"
-26-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:18:13-43
-27            android:exported="false" >
-27-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:19:13-37
-28        </activity>
-29        <activity
-29-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:21:9-23:40
-30            android:name="com.example.apptreino.MenuExercicios"
-30-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:22:13-43
-31            android:exported="false" />
-31-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:23:13-37
-32        <activity
-32-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:24:9-26:40
-33            android:name="com.example.apptreino.ReprodutorExercicios"
-33-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:25:13-49
-34            android:exported="false" />
-34-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:26:13-37
-35        <activity
-35-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:27:9-35:20
-36            android:name="com.example.apptreino.MainActivity"
-36-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:28:13-41
-37            android:exported="true"
-37-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:30:13-36
-38            android:theme="@style/Theme.AppCompat.NoActionBar" > <!-- True for the intent filter -->
-38-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:29:13-63
-39            <intent-filter>
-39-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:31:13-34:29
-40                <action android:name="android.intent.action.MAIN" />
-40-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:32:17-69
-40-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:32:25-66
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:33:17-77
-42-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:33:27-74
-43            </intent-filter>
-44        </activity>
-45
-46        <provider
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-47            android:name="androidx.startup.InitializationProvider"
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-48            android:authorities="com.example.apptreino.androidx-startup"
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-49            android:exported="false" >
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-50            <meta-data
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-52                android:value="androidx.startup" />
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-53            <meta-data
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nostromo\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nostromo\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-55                android:value="androidx.startup" />
-55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nostromo\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-56        </provider>
-57    </application>
-58
-59</manifest>
+19        android:theme="@style/Theme.AppTreino" >
+19-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:11:9-47
+20        <activity
+20-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:12:9-16:20
+21            android:name="com.example.apptreino.PreviewPlaylist"
+21-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:13:13-44
+22            android:exported="false" >
+22-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:14:13-37
+23        </activity>
+24        <activity
+24-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:17:9-20:20
+25            android:name="com.example.apptreino.NivelExercicio"
+25-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:18:13-43
+26            android:exported="false" >
+26-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:19:13-37
+27        </activity>
+28        <activity
+28-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="com.example.apptreino.MenuExercicios"
+29-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:22:13-43
+30            android:exported="false" />
+30-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:24:9-26:40
+32            android:name="com.example.apptreino.ReprodutorExercicios"
+32-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:25:13-49
+33            android:exported="false" />
+33-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:26:13-37
+34        <activity
+34-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:27:9-35:20
+35            android:name="com.example.apptreino.MainActivity"
+35-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:28:13-41
+36            android:exported="true"
+36-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:30:13-36
+37            android:theme="@style/AppCompat.TelaCheia" > <!-- True for the intent filter -->
+37-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:29:13-55
+38            <intent-filter>
+38-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:31:13-34:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:32:17-69
+39-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:32:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:33:17-77
+41-->D:\Dev\AndroidStudio\AppTreino\app\src\main\AndroidManifest.xml:33:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+47            android:authorities="com.example.apptreino.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Nostromo\.gradle\caches\transforms-3\278083bef5dd79cb476949a0d92ce592\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nostromo\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nostromo\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Nostromo\.gradle\caches\transforms-3\4d932a67b7be3c4366d55752ebd69384\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
